@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevync",
+        "uuid": 605829,
+        "checksum": "l1vner"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
